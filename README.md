@@ -1,6 +1,6 @@
 # zoomviewsample
 
-You can zoom them camera preview, image and movie with pinch on Android. ZoomCameraView extends TextureView, ZoomImageView extends SurfaceView and ZoomVideoView extends TextureView. Tested on Galaxy S5 / Android 5.0.
+You can zoom them camera preview, image and movie with pinch on Android. ZoomCameraView extends TextureView, ZoomImageView extends SurfaceView and ZoomVideoView extends TextureView. Tested on Galaxy S5, Nexus5, Nexus6, Nexus7 / Android 5.0.
 
 ## Requirement
 
