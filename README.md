@@ -13,3 +13,7 @@ This sample code are based on the following pages.
 * http://chicketen.blog.jp/archives/1579621.html
 * http://chicketen.blog.jp/archives/1622120.html
 * http://www.binpress.com/tutorial/video-cropping-with-texture-view/21
+ 
+## ToDo
+
+* Controller for ZoomVideoView.
