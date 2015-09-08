@@ -1,6 +1,6 @@
 # zoomviewsample
 
-You can zoom camera preview, image and movie to the area you set (say, *2.5f) with original ration by pinch on Android.
+You can zoom camera preview, image and movie to the scale you set (say, *2.5) with original ratio by pinch on Android.
 
 * ZoomCameraView extends TextureView
 * ZoomImageView extends SurfaceView
@@ -12,7 +12,7 @@ Galaxy S5, Nexus5, Nexus6, Nexus7 / Android 5.0.
 
 ## How to use
 
-You will need to put movie.mp4 in internal storage on your device and an image.png ( .jpg / .gif ) in /app/src/main/res/drawable/ on your project. You can use any name for them.
+You will need to put movie.mp4 in internal storage on your device and an image.png ( .jpg / .gif ) in /app/src/main/res/drawable/ on your project by default, but you can use any name for them.
 
 ## References
 
