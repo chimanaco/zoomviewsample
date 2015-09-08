@@ -1,6 +1,6 @@
 # zoomviewsample
 
-You can zoom camera preview, image and movie to the area you set (say, *2.5f) with pinch on Android.
+You can zoom camera preview, image and movie to the area you set (say, *2.5f) with original ration by pinch on Android.
 
 * ZoomCameraView extends TextureView
 * ZoomImageView extends SurfaceView
